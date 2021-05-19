@@ -9,8 +9,7 @@ Steps:
 - data is collected and unzipped
 - loading of data files
 - loading of helper/label files
-- label the datasets with descriptive variable names /n
- '4. Appropriately labels the data set with descriptive variable names.'
+- label the datasets with descriptive variable names  '4. Appropriately labels the data set with descriptive variable names.'
 
 - name the activities in the datasets
 '3. Uses descriptive activity names to name the activities in the data set'
