@@ -11,20 +11,20 @@ Steps:
 - loading of helper/label files
 - label the datasets with descriptive variable names  <br/> '4. Appropriately labels the data set with descriptive variable names.'
 
-- name the activities in the datasets
+- name the activities in the datasets <br/>
 '3. Uses descriptive activity names to name the activities in the data set'
 
 - activity variables are renamed
 - subject variables are renamed
 - testsets are merged (subject, activity and data)
 - trainsets are merged (subject, activity and data)
-- only measurements of mean and standard deviation are extracted
+- only measurements of mean and standard deviation are extracted <br/>
 '2. Extracts only the measurements on the mean and standard deviation for each measurement.' 
 
-- Test and train datasets are merged
+- Test and train datasets are merged <br/>
 '1. Merges the training and the test sets to create one data set.'
 
-- tidy dataset with average of each variable for each activity and each subject is created
+- tidy dataset with average of each variable for each activity and each subject is created <br/>
 '5.From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.'
 
 - table is written and uploaded as txt-file
