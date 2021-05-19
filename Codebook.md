@@ -14,7 +14,9 @@ Laying<br><br><br>
 
 
 Measurements<br>
-These variables are all calculated as the mean values for the corresponding measurement for the given subject and activity.  These are all of data type numeric.<br><br>
+These variables are all calculated as the mean values for the corresponding measurement for the given subject and activity.  <br>
+Therefore, if the variable name contains "std", then the variable contains the mean of the diffenrent observations of std for a given subject and activity and measurement<br>
+These are all of data type numeric.<br><br>
 
 "tBodyAcc-std()-X"<br>
 "tBodyAcc-std()-Y"<br>
