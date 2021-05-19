@@ -97,3 +97,4 @@ ncol(dplyr::select(complete_data_set, -subject, -activity_name, -test_or_train))
 tidy_data_set <- complete_data_set %>%
   group_by(subject, activity_name) %>%
   summarise(across(1:86, mean))
+
