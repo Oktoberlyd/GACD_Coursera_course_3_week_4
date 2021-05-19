@@ -1,8 +1,8 @@
-Code Book <br>
-The purpose of this code book is to describe the data fields in the tidy_data_set.txt file.<br><br>
+Code Book 
+The purpose of this code book is to describe the data fields in the tidy_data_set.txt file.
 
-ID-variables<br>
-subject - integer - The ID of the subject who performed the activity. Its range is from 1 to 30.<br>
+ID-variables
+subject - integer - The ID of the subject who performed the activity. Its range is from 1 to 30.
 activity_name - string - Activity named that was performed<br><br>
 
 Walking<br>
