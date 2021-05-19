@@ -98,3 +98,7 @@ tidy_data_set <- complete_data_set %>%
   group_by(subject, activity_name) %>%
   summarise(across(1:86, mean))
 
+
+#writing table for upload
+write.table(tidy_data_set, "C:/Users/ocari/OneDrive/Documents/Coursera/tidy_data_set.txt", row.name=FALSE)
+
