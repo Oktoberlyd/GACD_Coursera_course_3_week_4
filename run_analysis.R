@@ -21,8 +21,6 @@ url <- "https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR
 download.file(url, "activity_data.zip")
 unzip("activity_data.zip") #data is unzipped to /UCI HAR Dataset
 
-# 1.Merges the training and the test sets to create one data set.
-
 #check files
 list.files('UCI HAR Dataset/test')
 list.files('UCI HAR Dataset/train')
